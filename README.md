@@ -1,1 +1,1 @@
-# NanoGPT---LLM-from-scratch
+# NanoGPT-LLM-from-scratch
